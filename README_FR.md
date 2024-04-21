@@ -64,9 +64,9 @@ Nous croyons que pour devenir les fondations de l'Internet de la valeur, les ré
 
 À l'heure actuelle, Ethereum est la blockchain qui se rapproche le plus d'accomplir la vision d'un réseau blockchain formant la colonne vertébrale de l'Internet de la valeur. Il s'agit d'un réseau sécurisé, fiable, résistant à la censure et souverain. Cependant, il ne remplit pas les autres conditions préalables : protection de la vie privée, l'hyperscalabilité et l'accessibilité.
 
-Grâce à la magie de la ZK, le Web3 sur Ethereum peut devenir un bastion de la vie privée et atteindre une scalabilité illimitée tout en maintenant son intégrité. Dans cet état transformatif, il sera un sanctuaire accessible et abordable pour l'auto-propriété numérique.
+Grâce à la magie du ZK, le Web3 sur Ethereum peut devenir un bastion de la vie privée et atteindre une scalabilité illimitée tout en maintenant son intégrité. Dans cet état transformatif, il sera un sanctuaire accessible et abordable pour l'auto-propriété numérique.
 
-En s'alignant sur la vision de la ZK, il donnera le pouvoir aux individus à l'échelle mondiale, indépendamment de leur localisation. En libérant ces capacités, une nouvelle vague de liberté, de progrès et de prospérité impactera la vie des gens dans le monde entier.
+En s'alignant sur la vision du ZK, il donnera le pouvoir aux individus à l'échelle mondiale, indépendamment de leur géolocalisation. En libérant ces capacités, une nouvelle vague de liberté, de progrès et de prospérité impactera la vie des gens dans le monde entier.
 
 ## L'Action Collective
 
