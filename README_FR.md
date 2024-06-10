@@ -20,7 +20,7 @@ Notre voyage à travers les vagues de la révolution cryptographique se poursuit
 
 ![ZK Revolution](zk-revolution.jpeg)
 
-"ZK" est un terme difficilement définissable. À l'origine, il signifiait "Zero-Knowledge (Proofs)" ou "Zipped by Kryptographie" [^2]. Aujourd'hui, "ZK" incarne une idée plus large, qui se décompose en trois propriétés essentielles : l'Intégrité, la Confidentialité et la Magie.
+"ZK" est un terme difficilement définissable. Cela signifie "Zero-Knowledge (Proofs)" ou "Zipped by Kryptographie" [^2]. Aujourd'hui, "ZK" incarne une idée plus large, qui se décompose en trois propriétés essentielles : l'Intégrité, la Confidentialité et la Magie.
 
 ### L'Intégrité
 
